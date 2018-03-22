@@ -1,0 +1,2 @@
+Hello, world.
+This here is a text file, and I am going to commit it to GIT
